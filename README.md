@@ -57,3 +57,9 @@ DinoPedia/
 ├── DinoDatabase.csv                                  # Local CSV Database (auto-generated)
 ├── pom.xml                                       # Maven Configuration
 └── README.md                                     # Project Documentation
+
+💻 Tech Stack & Dependencies
+Language: Java 17+
+
+UI Framework: JavaFX 17+
+
