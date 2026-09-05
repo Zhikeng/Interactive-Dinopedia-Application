@@ -6,7 +6,7 @@ import os
 # Create README.md file content
 readme_content = """# 🦕 DinoPedia — Interactive JavaFX Dinosaur Encyclopedia
 
-**DinoPedia** is a modern, interactive desktop application built with **JavaFX** and **SQLite**. It allows users to browse, search, and manage a rich collection of prehistoric creatures with full CRUD (Create, Read, Update, Delete) capability.
+**DinoPedia** is a modern, interactive desktop application built with **JavaFX**. It allows users to browse, search, and manage a rich collection of prehistoric creatures with full CRUD (Create, Read, Update, Delete) capability.
 
 ---
 
@@ -53,7 +53,7 @@ DinoPedia/
 │           └── com/
 │               └── dinopedia/
 │                   ├── DinoPedia.fxml            # FXML Layout Definition
-│                   └── images/                   # Dinosaur Image Assets (.png)
-├── dinopedia.db                                  # Local SQLite Database (auto-generated)
+│                   └── images/                   # Dinosaur Image Assets (.png), Created by Canva AI
+├── DinoDatabase.csv                                  # Local CSV Database (auto-generated)
 ├── pom.xml                                       # Maven Configuration
 └── README.md                                     # Project Documentation
