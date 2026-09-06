@@ -54,6 +54,7 @@ DinoPedia/
 │               └── dinopedia/
 │                   ├── DinoPedia.fxml            # FXML Layout Definition
 │                   └── images/                   # Dinosaur Image Assets (.png), Created by Canva AI
+                    └── audios/                   # Dinosaur sounds, source: Pixabay. https://pixabay.com/sound-effects/search/dinosaur/
 ├── DinoDatabase.csv                                  # Local CSV Database (auto-generated)
 ├── pom.xml                                       # Maven Configuration
 └── README.md                                     # Project Documentation
